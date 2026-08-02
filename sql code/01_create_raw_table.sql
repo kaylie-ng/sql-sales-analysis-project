@@ -1,0 +1,23 @@
+CREATE TABLE raw (
+    rowid VARCHAR(255),
+    orderid VARCHAR(255),
+    orderdate VARCHAR(255),
+    shipdate VARCHAR(255),
+    shipmode VARCHAR(255),
+    customerid VARCHAR(255),
+    customername VARCHAR(255),
+    segment VARCHAR(255),
+    country VARCHAR(255),
+    city VARCHAR(255),
+    state VARCHAR(255),
+    postalcode VARCHAR(255),
+    region VARCHAR(255),
+    productid VARCHAR(255),
+    category VARCHAR(255),
+    subcategory VARCHAR(255),
+    productname VARCHAR(255),
+    sales VARCHAR(255),
+    quantity VARCHAR(255),
+    discount VARCHAR(255),
+    profit VARCHAR(255)
+);
